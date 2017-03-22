@@ -4,16 +4,24 @@
   "description": "",
   "author": "Przemyslaw Tomaszewski <hi@bipho.be>",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/biphobe/mobx-react-hot-boilerplate/issues"
+  "scripts": {
+    "start": "webpack-dev-server --hot --history-api-fallback --open"
   },
   "repository": {
     "type": "git",
     "url": "https://github.com/biphobe/mobx-react-hot-boilerplate.git"
   },
-  "scripts": {
-    "start": "webpack-dev-server --hot --history-api-fallback --open"
+  "bugs": {
+    "url": "https://github.com/biphobe/mobx-react-hot-boilerplate/issues"
   },
+  "keywords": [
+    "react",
+    "reactjs",
+    "boilerplate",
+    "mobx",
+    "starter-kit",
+    "webpack"
+  ],
   "devDependencies": {
     "babel-core": "^6.24.0",
     "babel-loader": "^6.4.1",
