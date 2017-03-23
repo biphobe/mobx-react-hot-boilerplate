@@ -1,13 +1,13 @@
 # mobx-react-hot-boilerplate
 
-> :diamonds: Last dependency update: **23.03.2017**.
+:diamonds: Dependencies updated at 23.03.2017
 
-- react-hotloader@3.0.0-beta.6
-- webpack@2.3.1
-- react@15.4.2
-- react-dom@15.4.2
-- mobx@3.1.7
-- mobx-react@4.1.3
+>- react-hotloader@3.0.0-beta.6
+>- webpack@2.3.1
+>- react@15.4.2
+>- react-dom@15.4.2
+>- mobx@3.1.7
+>- mobx-react@4.1.3
 
 ---
 
