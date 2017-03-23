@@ -1,6 +1,6 @@
 # mobx-react-hot-boilerplate
 
-:diamonds: Dependencies updated at 23.03.2017
+:sparkles: Dependencies updated at **23.03.2017**.
 
 >- react-hotloader@3.0.0-beta.6
 >- webpack@2.3.1
